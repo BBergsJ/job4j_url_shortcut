@@ -1,3 +1,4 @@
+[![Build Status](https://app.travis-ci.com/BBergsJ/job4j_url_shortcut.svg?branch=master)](https://app.travis-ci.com/BBergsJ/job4j_url_shortcut)
 
 # Описание проекта
 Проект представляет REST сервис по сбору статистики url адресов.
